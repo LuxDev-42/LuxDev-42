@@ -24,6 +24,7 @@ No momento, meu foco é entender princípios de desenvolvimento de forma que eu 
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
+
 ### Formas de me Contatar
 <div>
   <a href="https://www.instagram.com/lux_dub/" target="_blank">
