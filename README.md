@@ -16,11 +16,12 @@ No momento, meu foco é entender princípios de desenvolvimento de forma que eu 
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,postgres)](https://skillicons.dev)
 
 ### **Ferramentas**
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,blender,webstorm)](https://skillicons.dev)
 
 ### **Meu trabalhos 3D:**
-[![Trabalhos 3D](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cglux_/)
-
+  <a href="https://www.instagram.com/lux_dub/](https://www.instagram.com/cglux_/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 ### Formas de me Contatar
 <div>
   <a href="https://www.instagram.com/lux_dub/" target="_blank">
