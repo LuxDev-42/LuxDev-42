@@ -13,7 +13,7 @@ No momento, meu foco é entender princípios de desenvolvimento de forma que eu 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nuxt)](https://skillicons.dev)
 
 ### **Linguagens familiares:**
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,postgres,php)](https://skillicons.dev)
 
 ### **Ferramentas**
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,blender,webstorm)](https://skillicons.dev)
@@ -27,7 +27,7 @@ No momento, meu foco é entender princípios de desenvolvimento de forma que eu 
 
 ### Formas de me Contatar
 <div>
-  <a href="https://www.instagram.com/lux_dub/" target="_blank">
+  <a href="https://www.instagram.com/luxdub/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:luxdev42@gmail.com">
